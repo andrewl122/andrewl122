@@ -1,16 +1,18 @@
-## Hi there 👋
+# Andrew Lawrence
 
-<!--
-**andrewl122/andrewl122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Information Systems graduate focused on software development and mobile applications.
 
-Here are some ideas to get you started:
+## Technical Skills
+Java • Python • Swift • JavaScript • SQL  
+React • SwiftUI • Android SDK • Core Data • SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Reflect Room – iOS journaling app built with SwiftUI
+- AVA Airline System – Java + SQL airline reservation system
+- MyContactList – Mobile contact management app
+
+## Currently Learning
+Google Data Analytics Professional Certificate (In Progress)
+
+## Contact
+Email: andrewlaw122@gmail.com
